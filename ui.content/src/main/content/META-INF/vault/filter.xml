@@ -3,4 +3,7 @@
     <filter root="/conf/aemexample"/>
     <filter root="/content/aemexample"/>
     <filter root="/content/dam/aemexample"/>
+    <filter root="/conf/training"/>
+    <filter root="/content/training-page"/>
+    <filter root="/content/dam/training"/>
 </workspaceFilter>

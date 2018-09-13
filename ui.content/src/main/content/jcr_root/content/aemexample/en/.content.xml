@@ -88,5 +88,7 @@
                     sling:resourceType="aemexample/components/content/sharing"/>
             </responsivegrid>
         </root>
+        <image/>
     </jcr:content>
+    <test-page/>
 </jcr:root>
