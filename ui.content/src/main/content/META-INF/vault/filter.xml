@@ -7,4 +7,5 @@
     <filter root="/content/training-page"/>
     <filter root="/content/hello-world"/>
     <filter root="/content/dam/training"/>
+    <filter root="/content/modular-training-page"/>
 </workspaceFilter>
