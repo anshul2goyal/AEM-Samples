@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-09-13T19:21:14.379+01:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/training/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Training Page"
+        sling:resourceType="training/components/structure/contentpage"/>
+</jcr:root>
