@@ -3,7 +3,7 @@
     jcr:description="Training template"
     jcr:primaryType="cq:Template"
     jcr:title="Training Content Page"
-    allowedPaths="[/content(/.*)?]"
+    allowedPaths="[/content/training-page(/.*)?]"
     ranking="{Long}1">
     <jcr:content
         jcr:primaryType="cq:PageContent"
