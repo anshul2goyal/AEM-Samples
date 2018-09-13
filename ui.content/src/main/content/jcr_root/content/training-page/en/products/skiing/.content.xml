@@ -2,16 +2,14 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:allowedTemplates="/apps/training/templates/.*"
-        cq:lastModified="{Date}2018-09-13T19:39:47.685+01:00"
+        cq:lastModified="{Date}2018-09-13T19:49:02.091+01:00"
         cq:lastModifiedBy="admin"
         cq:template="/apps/training/templates/contentpage"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Training Page"
+        jcr:title="Skiing"
         sling:resourceType="training/components/structure/contentpage">
         <image jcr:primaryType="nt:unstructured">
             <file/>
         </image>
     </jcr:content>
-    <en/>
 </jcr:root>
