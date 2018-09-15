@@ -3,4 +3,5 @@
     <filter root="/apps/aemexample"/>
     <filter root="/apps/training"/>
     <filter root="/apps/sling" />
+    <filter root="/apps/settings/wcm/designs/training"/>
 </workspaceFilter>
