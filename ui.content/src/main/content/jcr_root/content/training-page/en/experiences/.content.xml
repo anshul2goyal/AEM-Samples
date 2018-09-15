@@ -7,7 +7,7 @@
         cq:template="/apps/training/templates/contentpage"
         jcr:primaryType="cq:PageContent"
         jcr:title="Experiences"
-        sling:resourceType="training/components/structure/contentpage">
+        sling:resourceType="training/components/structure/bluecontentpage">
         <image jcr:primaryType="nt:unstructured">
             <file/>
         </image>
